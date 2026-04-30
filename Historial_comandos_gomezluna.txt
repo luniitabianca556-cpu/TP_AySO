@@ -1,0 +1,397 @@
+vagravant halt
+echo $HOME
+ls
+mkdir
+mkdir clase4
+ls -l
+cd clase4/
+pwd
+history
+cat archivo1.txt
+cat > archivo1.txt
+ls -l
+cat archivo1.txt 
+cat > archivo2.txt
+cat archivo1.txt archivo2.txt > archivo3.txt
+ls -l
+cat > archivo3.txt
+cat archivo3.txt
+cat archivo1.txt archivo2.txt > archivo3.txt
+cat archivo3.txt
+cat archivo1.txt
+cat > archivo1.txt
+cat > archivo2.txt
+cat archivo1.txt archivo2.txt > archivo3.txt
+cat archivo3.txt
+cd ..
+ssh-keygen -t ed25519
+ls -la
+cd .ssh
+ls -l
+cat id_ed25519.pub 
+cd ..
+cd repogit
+git clone git@github.com:luniitabianca556-cpu/VMvagrant_gomez_luna.git
+cd vmvagrant_repo/
+ls -l
+cd VMvagrant_gomez_luna
+ls -l
+vagrant halt
+cd ..
+vagrant halt
+cd ..
+vagrant halt
+cd ..
+vagrant halt
+cd /d/SO/repogit/UTN-FRA_SO_Vagrant/VagrantFiles/1_equipo 
+cd ..
+cd ~
+cd ~/repogit/VMvagrant_gomez_luna$ 
+cd /repogit/VMvagrant_gomez_luna$ 
+cd repogit/VMvagrant_gomez_luna$ 
+cd repogit
+cd VMvagrant_gomez_luna$ 
+ls- l
+ls -l
+cd VMvagrant_gomez_luna
+ls
+echo "mi primer repo"
+echo "mi primer repo" > texto1.txt
+cat texto1.txt 
+git status
+git add
+git add .
+git status
+git commit -m "agrego texto1.txt"
+git config --global user.email "luniitabianca556@gmail.com"
+git commit -m "agrego texto1.txt"
+git config --global user.email "luniitabianca556@gmail.com"
+git config --global user.name "luniitabianca556-cpu"
+git commit -m "agrego texto1.txt"
+la -l
+echo "chau" > texto1.txt
+echo "chau" >> texto1.txt
+cat texto1.txt
+echo "chau" > texto1.txt
+echo "mi primer repo" >> texto1.txt
+cat texto1.txt
+git status
+git commit -m "se agrego chau y se cambio el orden"
+git status
+git push
+cd clase4
+tree
+sudo apt update
+sudo apt install tree
+tree
+cat archivo1.txt archivo2.txt archivo3.txt
+pwd tree
+cd ..
+tree
+ls -l
+mkdir clase5
+ls -l
+cd clase5
+mkdir practica
+cd practica
+ls -l
+touch practica1.txt
+ls -l
+cp practica1.txt practica2.txt 
+ls -l
+rm practica1.txt
+ls -l
+mv practica2.txt /home/vagrant/clase5/  
+ls -l
+cd..
+cd ..
+ls -l
+rmdir practica/
+mkdir facturas pedidos
+mkdir -p clientes/{factura,pedidos}
+tree
+mkdir -p clientes/{cientes,proveedores}/{facturas,pedidos}
+tree
+mkdir -p gomez1_clientes/{cientes,proveedores}/{facturas,pedidos}
+tree
+mkdir -p gomez1_/contactos/{cientes,proveedores}/{facturas,pedidos}
+tree
+mkdir -p GOMEZ_2/{mama/hijo{1..3},papa/{hijo{1..3},ahijado}}
+tree
+ls -l
+grep vagrant /etc/passwd
+sudo cat /etc/shadow
+sudo grep /etc/shadow
+sudo grep vagrant /etc/shadow
+ssh-keygen -t ed25519
+cat $HOME/.ssh/*.pub
+cat 
+cat vagrant@VMPruebas
+tree
+grep repogit
+mkdir repogit
+cd repogit
+cat 
+ls -l
+clone git@github.com:luniitabianca556-cpu/TP_AySO.git
+git clone git@github.com:luniitabianca556-cpu/TP_AySO.git
+ls -l
+cd TP_AySO
+pwd
+cat /etc/os-release
+cd ..
+rmdir TP_AySO
+rmd TP_AySO
+rm TP_AySO
+rm -r TP_AySO
+tree
+ls -l 
+cd TP_AySO
+cat /etc/os-release
+HOME_URL /etc/os-release
+man grep HOME_URL /etc/os-release
+grep -i HOME_URL /etc/os-release
+grep -i Home_url /etc/os-release >
+datos_url.txt
+grep -i Home_url /etc/os-release > datos_url.txt
+echo “Usuario=$(whoami)” > datos_usuario.txt 
+cat datos_usuario.txt
+echo “Gomez_Luna=$(whoami)” > datos_usuario.txt 
+cat datos_usuario.txt
+git commit -m "ADD: agregado 1er
+ejercicio sobre datos_usuarios.txt"
+git commit -m ADD: agregado 1er ejercicio sobre datos_usuarios.txt
+git status
+echo “Gomez_Luna=$(whoami)” > datos_usuario.txt 
+git commit -m ADD: agregado 1er ejercicio sobre datos_usuarios.txt
+git status
+whoami
+echo “Gomez_Luna=$(whoami)” > datos_usuario.txt 
+git commit -m ADD: agregado 1er ejercicio sobre datos_usuarios.txt
+git status
+cd ..
+rm -r TP_AySO/
+ls -l
+git clone git@github.com:luniitabianca556-cpu/TP_AySO_GomezLuna.git
+mkdir RepoGit
+cd RepoGit/
+git clone git@github.com:luniitabianca556-cpu/TP_AySO_GomezLuna.git
+PWD
+pwd
+ls -l
+cd TP_AySO_GomezLuna
+cat /etc/os-release
+man grep
+grep HOME_URL /etc/os-release
+grep -i Home_url /etc/os-release > datos_url.txt 
+whoami
+echo lunaGomez=$(whoami) > datos_usuario.txt
+git add .
+git commit -m ADD: agregado 1er ejercicio sobre datos_usuarios.txt
+git commit -m ADD: agregado 1er ejercicio sobre datos_usuario.txt
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuario.txt"
+git status
+git push
+cpuinfo
+cpu-info
+cat /proc/cpuinfo
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+git commit “feat: Añadiendo información de CPU”
+git commit -m ADD “feat: Añadiendo información de CPU”
+git add .
+git commit -m ADD “feat: Añadiendo información de CPU”
+git commit -m ADD “feat:Añadiendo información de CPU”
+git commit -m "ADD feat: Añadiendo información de CPU”
+git commit -m "ADD: Añadiendo información de CPU”
+git status
+git push
+ls -l
+cd repogit/
+cd RepoGit/
+ls -l
+cd TP_AySO_GomezLuna/
+LS -L
+ls -l
+git status
+git push
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+git commit “ADD feat: Añadiendo información de CPU”
+git status
+git add .
+git status
+git push
+git commit “ADD feat: Añadiendo información de CPU”
+git commit “ADD: Añadiendo información de CPU”
+git status
+git commit "ADD: se agregaron datos del cpu a datos_usuario.txt"
+ls -l
+git push
+git commit "ADD feat: se agregaron datos del cpu a datos_usuario.txt"
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuarios.txt “feat: Añadiendo información de CPU”
+cat datos_usuario
+cat datos_usuario.txt
+git add .
+git commit "ADD: se agregaron dats del cpu"
+git commit "ADD: se agregaron dats del cpu" >> datos_usuario
+git commit -m "ADD: feat: Añadiendo información de CPU"
+git push
+cat <<EOF >> README.md 
+luna bianca gomez ramella
+113
+t.m.
+
+cat <<EOF >> README.md 
+luna bianca gomez ramella
+113
+113
+EOF
+
+git add README.md datos_usuarios.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+mkdir -p ~/material/{uni1,uni2,uni3} ~/materia2/{uni1,uni2,uni3}
+rmdir -p ~/material/{uni1,uni2,uni3} ~/materia2/{uni1,uni2,uni3}
+rm -p ~/material/{uni1,uni2,uni3} ~/materia2/{uni1,uni2,uni3}
+rm ~/material/{uni1,uni2,uni3} ~/materia2/{uni1,uni2,uni3}
+ls - l
+ls -l
+tree
+cd ..
+cd..
+cd ..
+ls -l
+tree
+ls -l
+cd vagrant
+tree
+ls -l
+cd repogit
+cd RepoGit/
+cd TP_AySO_GomezLuna/
+mkdir -p ~/material/{uni1,uni2,uni3} ~/materia2/{uni1,uni2,uni3}
+cd  ~
+tree
+history -a
+history -a $HOME/.bash_history
+history -a
+cp ~/.bash_history ./Historial_comandos_GomezRamella.txt
+git add .
+Historial_comandos_GomezRamella.txt
+cp ~/.bash_history >> ./Historial_comandos_GomezRamella.txt
+vagrant@VMPruebas:~$ cp ~/.bash_history >> ./Historial_comandos_GomezRamella.txt
+cp $HOME/.bash_history ./Historial_comandos_Apellido.txt
+git status
+ls -l
+cd repogit
+cd RepoGit
+cp $HOME/.bash_history ./Historial_comandos_Apellido.txt
+git add .
+cd TP_AySO_GomezLuna/
+cp $HOME/.bash_history ./Historial_comandos_Apellido.txt
+git add .
+cp $HOME/.bash_history ./Historial_comandos_GomezLuna.txt
+git add .
+git pull
+cp $HOME/.bash_history ./Historial_comandos_gomezluna.txt
+git add .
+git status
+git push
+history -a
+cp ~/.bash_history ./Historial_comandos_GomezLuna.txt
+git add .
+git commit -m "ADD: Historial de comandos de gomez luna"
+ls -l
+rm datos_usuario
+rm datos_usuarios.txt
+rm Historial_comandos_gomezluna.txt
+rm Historial_comandos_GomezLuna.txt
+rm Historial_comandos_Apellido.txt
+ls -l
+cp ~/.bash_history ./Historial_comandos_Apellido.txt
+rm Historial_comandos_Apellido.txt
+cp ~/.bash_history ./Historial_comandos_gomezluna.txt
+history
+cp ~/.bash_history ./Historial_comandos_GomezLuna.txt
+git add . 
+git commit -m "ADD: Historial de comandos de gomez ramella luna"
+git status
+git push 
+git pull
+git status
+git push
+cp ~/.bash_history ./Historial_comandos_GomezLuna.txt
+git add . 
+git commit -m "ADD: Historial de comandos de gomez ramella luna"
+git status
+git push
+ls -l
+rm Historial_comandos_gomezluna.txt
+rm Historial_comandos_Gomezluna.txt
+rm Historial_comandos_GomezLuna.txt
+ls -l
+vagrant halt
+ls -l
+cd repogit 
+cd RepoGit/
+cd TP_AySO_GomezLuna/
+ls -l
+history -a
+cp ~/.bash_history ./Historial_comandos_gomezluna.txt
+git add .
+git commit -m "ADD: Historial de comandos de gomez luna"
+git push
+cd ..
+git clone git@github.com:luniitabianca556-cpu/TP_AySO.git
+cd TP_AySO
+pwd
+ls -l
+cat /etc/os-release
+grep -i Home_url /etc/os-release > datos_url.txt 
+whoami
+echo “Gomezluna=$(whoami)” > datos_usuario.txt
+git add .
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+git push
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuarios.txt
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuarios.txt “feat: Añadiendo información de CPU”
+git commit "ADD: feat: Añadiendo información de CPU”
+git commit ADD: “feat: Añadiendo información de CPU”
+git commit "ADD: Añadiendo información de CPU”
+“feat: Añadiendo información de CPU"
+ls -l
+cat datos_usuario
+cat datos_usuario.txt
+cat datos_usuarios.txt
+git status
+git commit -m "ADD: feat Añadiendo información de CPU”
+git commit -m "ADD: Añadiendo información de CPU”
+git status
+git add .
+git commit -m "ADD: Añadiendo información de CPU”
+git commit -m "ADD: feat Añadiendo información de CPU”
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuarios.txt
+git commit -m "ADD: feat Añadiendo información de CPU”
+git commit "ADD: feat Añadiendo información de CPU”
+git commit "ADD: se agregaron dats del cpu" >> datos_usuario
+datos_usuarios.txt
+
+git pull
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuarios.txt
+git status
+git add .
+git commit "ADD: se agrefo info del cpu" >> datos_usuarios.txt 
+git status
+cat datos_usuarios.txt
+cat <<EOF >> README.md 
+Luna bianca gomez
+113
+Turno mañana
+EOF
+
+git add README.md datos_usuarios.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+mkdir -p ~/material/{uni1,uni2,uni3} ~/materia2/{uni1,uni2,uni3}
+history -a
+history -a >> $HOME/.bash_history
