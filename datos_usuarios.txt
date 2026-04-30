@@ -1,0 +1,3 @@
+model name	: Intel(R) Core(TM) i7-7700T CPU @ 2.90GHz
+model name	: Intel(R) Core(TM) i7-7700T CPU @ 2.90GHz
+model name	: Intel(R) Core(TM) i7-7700T CPU @ 2.90GHz
